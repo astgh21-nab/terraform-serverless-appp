@@ -1,0 +1,13 @@
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfplan
+crash.log
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+envs/dev/.terraform/
+modules/dynamodb/.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+
